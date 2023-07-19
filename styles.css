@@ -19,7 +19,7 @@ body {
 .post-body {
     background-color: white;
     padding-top: 30px;
-    padding: 20px;
+    padding: 15px;
 }
 
 .post-image {
@@ -45,6 +45,7 @@ body {
 
 .bottom-icons {
     display: inline-flex; 
+    padding-top: 10px;
 }
 .comment-icon {
     padding-left: 10px;
